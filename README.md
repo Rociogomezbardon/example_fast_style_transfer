@@ -1,3 +1,6 @@
+This is an exercises that I have done as part of my Udacity Deep Learning Nanodegree. We only needed to make use of the ready cnn used for transfer learning in some of our pictures and see what was the outcome. Awesome!
+
+
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 Add styles from famous paintings to any photo in a fraction of a second! [You can even style videos!](#video-stylization)
