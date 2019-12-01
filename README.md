@@ -1,5 +1,11 @@
 This is an exercises that I have done as part of my Udacity Deep Learning Nanodegree. We only needed to make use of the ready cnn used for transfer learning in some of our pictures and see what was the outcome. Awesome!
 
+To run the code in these files, it is requred all the packages contained in the environment.yaml. 
+If you have docker installed, just create a new enviroment with the command:
+"conda env create -f environment.yaml"
+
+to remove enviroment use command:
+"conda remove -n <name-of-environment> --all"
 
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
 
